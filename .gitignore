@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode/
+.vscode-test/
+.vscode-server/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+target/
