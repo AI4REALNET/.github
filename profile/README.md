@@ -24,6 +24,7 @@ The AI4REALNET framework will be validated in 6 uses cases driven by industry re
 
 * **Name:** INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
 * **Country:** Portugal
+* **Grant agreement ID:** 101119527 
 
 
 #### Fact Sheet (Horizon Europe):
