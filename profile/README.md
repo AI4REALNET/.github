@@ -24,12 +24,15 @@ The AI4REALNET framework will be validated in 6 uses cases driven by industry re
 
 * **Name:** INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
 * **Country:** Portugal
-* **Grant agreement ID:** 101119527 
 
 
 #### Fact Sheet (Horizon Europe):
 
 https://cordis.europa.eu/project/id/101119527
+
+#### Acknowledgements:
+
+The research leading to this work is being carried out as a part of the AI4REALNET (AI for REAL-world NETwork operation) project, European Union’s Horizon Research and Innovation Programme, Grant Agreement No. 101119527. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
 
 
 
