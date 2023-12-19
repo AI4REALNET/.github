@@ -21,8 +21,9 @@ The AI4REALNET framework will be validated in 6 uses cases driven by industry re
 ### Project Details
 
 #### Coordinator:
-**Name:** INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
-**Country:** Portugal
+
+* **Name:** INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
+* **Country:** Portugal
 
 
 #### Fact Sheet (Horizon Europe):
