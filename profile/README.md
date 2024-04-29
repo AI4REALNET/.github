@@ -42,7 +42,7 @@ We are committed to establishing a community where everyone feels valued and inc
 
 ### Security problems
 
-If you discover any security problems or vulnerabilities in the source code of any repository belonging to this organization, please report them in accordance with the guidelines outlined in the (Security)[https://github.com/AI4REALNET/.github/blob/wip/oss-guidelines-cla-cc/security.md] document.
+If you discover any security problems or vulnerabilities in the source code of any repository belonging to this organization, please report them in accordance with the guidelines outlined in the [Security](https://github.com/AI4REALNET/.github/blob/wip/oss-guidelines-cla-cc/security.md) document.
 
 
 
