@@ -1,4 +1,7 @@
+<div align="center">
+
 # How To Contribute to Open-Source
+</div>
 
 Welcome to **AI4REALNET Open Source Organization** guidelines! 
 
@@ -10,45 +13,54 @@ Before you begin, it's essential to familiarize yourself with the documentation 
 
 ### Step-By-Step
 
-1. **Familiarize Yourself with our [Contributing Guidelines](contributing.md)**
+**Familiarize Yourself with our [Contributing Guidelines](contributing.md)**
    - Review the guidelines outlining how to contribute to an OSS project repository effectively.
-2. **Understand the Project Structure and Codebase**
+
+**Understand the Project Structure and Codebase**
    - Gain a comprehensive understanding of the project's architecture, code organization, and existing functionalities.
-3. **Choose an Issue or Feature to Work On** 
+
+**Choose an Issue or Feature to Work On** 
    - Select a task or feature from the project's issue tracker or backlog that aligns with your skills and interests.
-4. **Create a Branch to work on**
-   - Create a new branch in the version control system to isolate your changes and collaborate without affecting the main codebase.
-5. **Implement Your Changes**
+
+**Create a Branch to work on**
+   - Create a new branch (follow naming conventions - [Contribution Guidelines - Section 3](./contributing.md)) in the version control system to isolate your changes and collaborate without affecting the main codebase.
+
+**Implement Your Changes**
    - Write code to address the selected issue or implement the desired feature, following coding standards and best practices.
-6. **Submit a Pull Request (PR)**
+
+**Submit a Pull Request (PR)**
    - Open a pull request to propose your changes for review and integration into the main codebase.
-7. **Address Feedback and Iteration**
-   - Respond to feedback and suggestions during the code review process, making necessary adjustments and improvements.
-8. **Merge Your Changes**
+
+**Merge Your Changes**
    - Once your changes have been approved, merge your branch into the main codebase to incorporate your contributions.
-9. **Update Documentation and Tests**
+
+**Address Feedback and Iteration**
+   - Respond to feedback and suggestions during the code review process, making necessary adjustments and improvements.
+
+**Update Documentation and Tests**
    - Update project documentation and tests to reflect any changes or additions made to the codebase, ensuring accuracy and completeness.
-10. **Celebrate and Share Your Contribution**
-    - Celebrate your contribution to the project and share it with the community through social media, blog posts, or other channels.
+
+**Celebrate and Share Your Contribution**
+   - Celebrate your contribution to the project and share it with the community through social media, blog posts, or other channels.
 
 
 ## 2 - Quality Control on Open-Source Software
 
 
-1. **Continuous Integration (CI) Pipelines**  
+**Continuous Integration (CI) Pipelines**  
    - Be aware of how often CI pipelines run, ensuring your code changes are tested promptly upon submission.
    - Align your testing strategy with the CI pipeline's requirements, ensuring that tests adequately cover your changes.
 
-2. **Code Review Processes**  
+**Code Review Processes**  
    - Write clear, concise, and self-explanatory code to facilitate reviewers' understanding.
    - Include relevant comments and documentation to explain the purpose and functionality behind your code changes.
    - Be open to feedback and constructive criticism from reviewers, recognizing that the goal is to improve the quality of your code.
 
-3. **Community Engagement and Feedback**  
+**Community Engagement and Feedback**  
    - Offer constructive feedback on project features, documentation, and processes to help drive improvements and address areas of concern.
    - Review and provide feedback on contributions from new contributors to encourage participation and help them improve their contributions.
 
-4. **Bug Tracking and Issue Management**  
+**Bug Tracking and Issue Management**  
    - Monitor the project's issue tracker for existing bugs and feature requests before reporting new issues.
    - Respond promptly to comments and inquiries on reported issues, providing clarification, additional information, or acknowledgments as needed.
 
@@ -61,17 +73,17 @@ Stay informed about how your contributions impact the project's growth and engag
 
 ## 4 - Risks and Mitigation
 
-1. **Risk Identification**
+**Risk Identification**
 
-   Recognizing potential risks related to your contributions is crucial as a contributor. Be aware of common pitfalls, such as accidentally committing secret tokens or sensitive information within your code. Other risks include misconfigurations of the CI pipeline that could expose the project to vulnerabilities. Identifying these issues early on helps you understand what to look for and prevent errors before they become problematic.
+   - Recognizing potential risks related to your contributions is crucial as a contributor. Be aware of common pitfalls, such as accidentally committing secret tokens or sensitive information within your code. Other risks include misconfigurations of the CI pipeline that could expose the project to vulnerabilities. Identifying these issues early on helps you understand what to look for and prevent errors before they become problematic.
 
-2. **Risk Assessment**
+**Risk Assessment**
 
-   Evaluate the potential impact and likelihood of the risks you've identified. For instance, consider the consequences if secret tokens are exposed in public repositories—this could lead to unauthorized access and significant security breaches. Assess how your contributions could introduce such risks and understand the importance of each risk in the context of the overall project.
+   - Evaluate the potential impact and likelihood of the risks you've identified. For instance, consider the consequences if secret tokens are exposed in public repositories—this could lead to unauthorized access and significant security breaches. Assess how your contributions could introduce such risks and understand the importance of each risk in the context of the overall project.
 
-3. **Risk Mitigation Planning**
+**Risk Mitigation Planning**
 
-   Develop and follow best practices to mitigate the risks associated with your contributions. Ensure that no sensitive data or secrets are included in your commits using tools like pre-commit hooks that scan for secrets or run pipelines that search for said secrets. Planning ahead and being vigilant can significantly reduce the likelihood of introducing vulnerabilities into the project.
+   - Develop and follow best practices to mitigate the risks associated with your contributions. Ensure that no sensitive data or secrets are included in your commits using tools like pre-commit hooks that scan for secrets or run pipelines that search for said secrets. Planning ahead and being vigilant can significantly reduce the likelihood of introducing vulnerabilities into the project.
 
 
 ## Contributing Guidelines 

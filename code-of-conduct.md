@@ -1,5 +1,8 @@
+<div align="center">
 
 ## Code Of Conduct
+</div>
+
 ### AI4REALNET - AI for REAL-world NETwork operation
 
 </div>

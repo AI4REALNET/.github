@@ -1,4 +1,7 @@
+<div align="center">
+
 ## Security
+</div>
 
 ### Reporting security issues
 
@@ -10,4 +13,5 @@ If you are still waiting for a response within 24 hours, please send us a follow
 
 ### Reporting languages
 
-Please write all your reports in English.
+> [!NOTE]
+> Please write all your reports in English.
