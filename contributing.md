@@ -1,5 +1,8 @@
+<div align="center">
 
 # Contribution Guidelines
+</div>
+
 ### AI4REALNET - AI for REAL-world NETwork operation
 
 Welcome to AI4REALNET's open-source community! We appreciate your interest in contributing to our projects. Your contributions are crucial for fostering innovation and driving positive change.
