@@ -48,8 +48,9 @@ Please note that compliance with this organization's [Code of Conduct](https://g
 
 If you discover any security problems or vulnerabilities in the source code of any repository belonging to this organization, please report them in accordance with the guidelines outlined in the [Security](https://github.com/AI4REALNET/.github/blob/main/security.md) document.
 
+### OSS Organization Stewards
 
-
+Please forward your questions to ai4realnet.oss@lists.inesctec.pt
 
 
 
